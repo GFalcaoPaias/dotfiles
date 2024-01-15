@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = falcao.paias@gmail.com
+	name = Goncalo Paias
